@@ -8,6 +8,8 @@ This is a repository of analytics projects I completed for various courses in th
 ## Excel
 * A written report to describe vehical data from the U.S. Environmental Protection Agency. Used descriptive statistics to summarize vehical data. Conducted both a linear regession analysis and multilinear regression anaylsis to create models to predict vehicle fuel consumption. Evaluated the validity of the linear analysis to determine if it was the appropriate analysis for this data.
 
+  <img width="344" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059">
+
   [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://carrollu-my.sharepoint.com/:b:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf?csf=1&web=1&e=1bfvP8)
 
 * Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including descriptive statistics and visualizations.
