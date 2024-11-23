@@ -1,11 +1,13 @@
-# Data Portfolio - MBA
+# Data Portfolio
 
 ## About Me
 Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University in Waukesha, WI pursuing an MBA with an emphasis in Business Analytics.
 
+## MBA Data Portfolio
+
 This is a repository of analytics projects I completed for various courses in the MBA program.
 
-## Excel
+### Excel
 * A written report to describe vehical data from the U.S. Environmental Protection Agency. Used descriptive statistics to summarize vehical data. Conducted both a linear regession analysis and multilinear regression anaylsis to create models to predict vehicle fuel consumption. Evaluated the validity of the linear analysis to determine if it was the appropriate analysis for this data.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059">
@@ -24,12 +26,12 @@ This is a repository of analytics projects I completed for various courses in th
 
   [Fitzgerald - EVP Hypothesis Testing](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Data%20Analysis.xlsx?d=w3071de0f15c2454e9b40d05a2ad9b788&csf=1&web=1&e=wpoC8X)
 
-## Python
+### Python
 * Data analysis to predict obesity rates using data from the Centers for Disease Control and Prevention. This involved loading the data, cleaning and preprocessing data, performing EDA, correlation analysis, and performing a multilinear regression analysis to create a model for prediction.
 
   [Fitzgerald - Obesity Project Jupyter Notebook](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald_Obesity_Project_Python.ipynb?csf=1&web=1&e=OCxE5A)
 
-## Tableau
+### Tableau
 
 * EDA visualizations of fuel consumption vehicle data from the U.S. Environmental Protection Agency.
 
