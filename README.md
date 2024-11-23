@@ -7,6 +7,7 @@ This is a repository of analytics projects I completed during the MBA program.
 
 ## Excel
 A linear regression analysis to create a multilinear model to predict fuel consumption using data from the U.S. Environmental Protection Agency.
+[Fitzgerald - Managerial Report on Vehicle Fuel Consumption FINAL.docx](https://github.com/user-attachments/files/17878330/Fitzgerald.-.Managerial.Report.on.Vehicle.Fuel.Consumption.FINAL.docx)
 
 ## Python
 
