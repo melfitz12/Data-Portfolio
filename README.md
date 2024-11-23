@@ -20,8 +20,7 @@ This is a repository of analytics projects I completed for various courses in th
 
 * Hypothesis testing using electric vehicle population (EVP) data including correlation analysis, linear regression analysis and visualizations.
 
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/5b534e74-d4e1-4722-a42c-490519bc8136"> <img width="210" alt="image" src="https://github.com/user-attachments/assets/6934ccb4-4e7e-4d92-937f-6f214b6abd58">
-
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/5b534e74-d4e1-4722-a42c-490519bc8136"> <img width="360" alt="image" src="https://github.com/user-attachments/assets/56483cb4-b5cc-42d9-ba76-50909c9a32ca"> <img width="210" alt="image" src="https://github.com/user-attachments/assets/6934ccb4-4e7e-4d92-937f-6f214b6abd58">
 
   [Fitzgerald - EVP Hypothesis Testing](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Data%20Analysis.xlsx?d=w3071de0f15c2454e9b40d05a2ad9b788&csf=1&web=1&e=wpoC8X)
 
