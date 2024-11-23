@@ -1,4 +1,4 @@
-# Data Portfolio
+# Data Portfolio - MBA
 
 ## About Me
 Hi! I am a graduate student at Carroll University in Waukesha, WI pursuing an MBA with an emphasis in Business Analytics.
