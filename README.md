@@ -15,7 +15,7 @@ This is a repository of analytics projects I completed for various courses in th
   [Fitzgerald - EPA Data Analysis.xlsx](https://github.com/user-attachments/files/17878420/Fitzgerald.-.EPA.Data.Analysis.xlsx)
 
 ## Python
-* Data analysis to predict obesity rates using data from the Centers for Disease Control and Prevention. This involved loading the data, cleaning and preprocessing it, performing EDA, analyzing correlations, and performing a multilinear regression analysis to create a model for prediction.
+* Data analysis to predict obesity rates using data from the Centers for Disease Control and Prevention. This involved loading the data, cleaning and preprocessing data, performing EDA, analyzing correlations, and performing a multilinear regression analysis to create a model for prediction.
 
 
 
