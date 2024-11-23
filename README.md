@@ -33,8 +33,13 @@ This is a repository of analytics projects I completed for various courses in th
 
 * EDA visualizations of fuel consumption vehicle data from the U.S. Environmental Protection Agency.
 
+  <img width="350" alt="image" src="https://github.com/user-attachments/assets/3ad61417-a768-4537-a5bf-384cc11f8b6f">
+
   [Fitzgerald - EPA Visualizations](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EDA%20with%20Tableau.twbx?csf=1&web=1&e=zLEuRw)
 
 * Visualizations of EVP data including correlation analysis.
+
+  <img width="350" alt="image" src="https://github.com/user-attachments/assets/f884b239-1687-4cca-9125-cefe6f6087d7">  <img width="450" alt="image" src="https://github.com/user-attachments/assets/606d8639-2aa3-44ad-af15-cd70307d3587">
+
 
   [Fitzgerald - EVP Visualizations](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Tableau.twbx?csf=1&web=1&e=M2GFA0)
