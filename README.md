@@ -1,7 +1,7 @@
 # Data Portfolio - MBA
 
 ## About Me
-Hi! I am a graduate student at Carroll University in Waukesha, WI pursuing an MBA with an emphasis in Business Analytics.
+Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University in Waukesha, WI pursuing an MBA with an emphasis in Business Analytics.
 
 This is a repository of analytics projects I completed for various courses in the MBA program.
 
