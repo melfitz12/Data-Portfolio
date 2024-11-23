@@ -10,6 +10,11 @@ A written report to describe vehical data from the U.S. Environmental Protection
 
 [Fitzgerald - Managerial Report on Vehicle Fuel Consumption FINAL.docx](https://github.com/user-attachments/files/17878330/Fitzgerald.-.Managerial.Report.on.Vehicle.Fuel.Consumption.FINAL.docx)
 
+Exploratory Data Analysis of vehicle data from the U.S. Environmental Protection Agency.
+
+[Uploading Fitzgerald - EPA Data Analysis.xlsx…]()
+
+
 ## Python
 
 
