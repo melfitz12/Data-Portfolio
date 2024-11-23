@@ -19,7 +19,7 @@ This is a repository of analytics projects I completed for various courses in th
   [Fitzgerald - EVP Hypothesis Testing](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Data%20Analysis.xlsx?d=w3071de0f15c2454e9b40d05a2ad9b788&csf=1&web=1&e=wpoC8X)
 
 ## Python
-* Data analysis to predict obesity rates using data from the Centers for Disease Control and Prevention. This involved loading the data, cleaning and preprocessing data, performing EDA, analyzing correlations, and performing a multilinear regression analysis to create a model for prediction.
+* Data analysis to predict obesity rates using data from the Centers for Disease Control and Prevention. This involved loading the data, cleaning and preprocessing data, performing EDA, correlation analysis, and performing a multilinear regression analysis to create a model for prediction.
 
   [Fitzgerald - Obesity Project Jupyter Notebook](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald_Obesity_Project_Python.ipynb?csf=1&web=1&e=OCxE5A)
 
