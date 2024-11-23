@@ -10,14 +10,13 @@ This is a repository of analytics projects I completed for various courses in th
 
   [Fitzgerald - Managerial Report on Vehicle Fuel Consumption FINAL.docx](https://github.com/user-attachments/files/17878330/Fitzgerald.-.Managerial.Report.on.Vehicle.Fuel.Consumption.FINAL.docx)
 
-* Exploratory Data Analysis of vehicle data from the U.S. Environmental Protection Agency including descriptive statistics and visualizations.
+* Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including descriptive statistics and visualizations.
 
   [Fitzgerald - EPA Data Analysis.xlsx](https://github.com/user-attachments/files/17878420/Fitzgerald.-.EPA.Data.Analysis.xlsx)
 
-
-
-
 ## Python
+* Data analysis using Python to predict obesity rates using data from the Centers for Disease Control and Prevention. This involved loading the data, cleaning and preprocessing it, performing EDA, analyzing correlations, and performing a multilinear regression analysis to create a model for prediction.
+
 
 
 ## Tableau
