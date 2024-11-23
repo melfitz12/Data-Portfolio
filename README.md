@@ -14,7 +14,7 @@ This is a repository of analytics projects I completed for various courses in th
 
   [Fitzgerald - EPA Data Analysis](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EPA%20Data%20Analysis.xlsx?d=w17f48560e95c40ee83053ac25081b088&csf=1&web=1&e=r9tCyw)
 
-* Hypothese testing using electric vehicle population (EVP) data including linear regression analysis and visualizations.
+* Hypothesis testing using electric vehicle population (EVP) data including linear regression analysis and visualizations.
 
   [Fitzgerald - EVP Hypothesis Testing](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Data%20Analysis.xlsx?d=w3071de0f15c2454e9b40d05a2ad9b788&csf=1&web=1&e=wpoC8X)
 
