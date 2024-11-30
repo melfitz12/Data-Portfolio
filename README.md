@@ -7,7 +7,7 @@ Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University
 
 ### Froedtert Workforce Health
 
-Visualization using Tableau of Froedtert Workforce Health Clinics that shows its locations throughout southeast Wisconsin. Workforce Health is a division of Froedtert Health that contracts with businesses to provide an on-site health clinic for its employees. This involved loading, cleaning, and pre-processing the data in Excel before creating the visualization.
+Visualization using Tableau of Froedtert Workforce Health Clinics to show its locations and each clinic information throughout southeast Wisconsin. Workforce Health is a division of Froedtert Health that contracts with businesses to provide an on-site health clinic for its employees. This involved loading, cleaning, and pre-processing the data in Excel before creating the visualization.
 
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/776d064a-b3c4-498c-8a2f-8ee8466040d1">
 
