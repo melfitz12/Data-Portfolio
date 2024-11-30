@@ -3,9 +3,17 @@
 ## About Me
 Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University in Waukesha, WI pursuing an MBA with an emphasis in Business Analytics.
 
-## MBA Data Portfolio
+## Business Projects
 
-This is a repository of analytics projects I completed for various courses in the MBA program.
+### Froedtert Workforce Health
+
+Visualization using Tableau of Froedtert Workforce Health Clinics that shows its locations throughout southeast Wisconsin. Workforce Health is a division of Froedtert Health that contracts with businesses to provide an on-site health clinic for its employees. This involved loading, cleaning, and pre-processing the data in Excel before creating the visualization.
+
+   <img width="400" alt="image" src="https://github.com/user-attachments/assets/4b66cb78-53dd-4028-aa3b-9e547912c256">
+
+## MBA Projects
+
+Analytics projects I completed for various courses in the MBA program.
 
 ### Excel
 * A written report to describe vehical data from the U.S. Environmental Protection Agency. Used descriptive statistics to summarize vehical data. Conducted both a linear regession analysis and multilinear regression anaylsis to create models to predict vehicle fuel consumption. Evaluated the validity of the linear analysis to determine if it was the appropriate analysis for this data.
