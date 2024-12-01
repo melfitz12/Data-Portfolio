@@ -9,7 +9,7 @@ Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University
 
 Visualization using Tableau of Froedtert Workforce Health Clinics to show its locations and each clinic information throughout southeast Wisconsin. Workforce Health is a division of Froedtert Health that contracts with businesses to provide an on-site health clinic for its employees. This involved loading data, cleaning data, and finding and adding geolocation coordinates of addresses in Excel before creating the visualization.
 
-   <img width="400" alt="image" src="https://github.com/user-attachments/assets/b74b934a-c23a-49e0-a046-e799fc380d01">
+   <img width="400" alt="image" src="https://github.com/user-attachments/assets/8efb26d6-3399-4c6e-bf54-9997029ed2be">
 
 ## MBA Projects
 
