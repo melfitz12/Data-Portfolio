@@ -7,7 +7,7 @@ Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University
 
 ### Carroll University Physician Assitant Program
 
-Gathered program data from different sources for both quantitative and qualitative analyses. Used Excel for quantitave data which involved importing, cleaning, sorting, and creating analyses calculations for didactic and clinical data. Compiled qualitative data as Word documents which involved extracting, organizing, and writing the relevant information from different program surveys.
+Gathered program data from different sources for both quantitative and qualitative analyses. Used Excel for quantitave data which involved importing, cleaning, sorting, and creating analyses calculations, including standard and weighted averages, for didactic and clinical data. Compiled qualitative data as Word documents which involved extracting, organizing, and writing the relevant information from different program surveys.
 
 ### Froedtert Workforce Health
 
