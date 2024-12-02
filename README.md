@@ -26,13 +26,13 @@ Analytics projects I completed for various courses in the MBA program.
 
   [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://carrollu-my.sharepoint.com/:b:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf?csf=1&web=1&e=1bfvP8)
 
-* Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including descriptive statistics and visualizations.
+* Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including the use of pivot tables, descriptive statistics, and visualizations.
 
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/693314d5-feb7-44b1-8215-853c40adebf2"> <img width="380" alt="image" src="https://github.com/user-attachments/assets/90053618-86df-4538-9cfe-a54548d4aa58">
 
   [Fitzgerald - EPA Data Analysis](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EPA%20Data%20Analysis.xlsx?d=w17f48560e95c40ee83053ac25081b088&csf=1&web=1&e=r9tCyw)
 
-* Hypothesis testing using electric vehicle population (EVP) data including correlation analysis, linear regression analysis and visualizations.
+* Hypothesis testing using electric vehicle population (EVP) data including the use of pivot tables, correlation analysis, linear regression analysis and visualizations.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/5b534e74-d4e1-4722-a42c-490519bc8136"> <img width="360" alt="image" src="https://github.com/user-attachments/assets/56483cb4-b5cc-42d9-ba76-50909c9a32ca"> <img width="210" alt="image" src="https://github.com/user-attachments/assets/6934ccb4-4e7e-4d92-937f-6f214b6abd58">
 
