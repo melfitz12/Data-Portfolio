@@ -11,6 +11,8 @@ Visualization using Tableau of Froedtert Workforce Health Clinics to show its lo
 
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/8efb26d6-3399-4c6e-bf54-9997029ed2be">
 
+   [Froedtert Workforce Health](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/WFH.twbx?csf=1&web=1&e=ffZAHR)
+
 ## MBA Projects
 
 Analytics projects I completed for various courses in the MBA program.
