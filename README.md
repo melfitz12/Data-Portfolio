@@ -58,7 +58,7 @@ Analytics projects I completed for various courses in the MBA program.
   [Fitzgerald - EVP Visualizations](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Tableau.twbx?csf=1&web=1&e=M2GFA0)
 
 ### R
-* Data analysis and visualizations of vehicle data including exploratory data analysis, correlation analysis, hypothesis testing, and simple linear regression. This involved loading given data and creating new dataframes using select data for analyses.
+* Data analysis and visualizations of vehicle data including exploratory data analysis, correlation analysis, hypothesis testing, and simple linear regression. This involved the data and creating new dataframes using select data for analyses.
 
   <img width="260" alt="image" src="https://github.com/user-attachments/assets/fc8af014-6e9f-4062-87ed-d229d473a18b"> <img width="270" alt="image" src="https://github.com/user-attachments/assets/2a98dc6b-d737-4ac4-91b7-8d8ce05a3fd6"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/5d2abeba-c7a5-47bd-ab8a-83577ced2fc0">
 
