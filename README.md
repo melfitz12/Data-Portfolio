@@ -4,6 +4,7 @@
 Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University in Waukesha, WI pursuing an MBA with an emphasis in Business Analytics.
 
 ## Business Projects
+Projects I worked on using the analytics skills I learned from the MBA program.
 
 ### Froedtert Workforce Health
 
