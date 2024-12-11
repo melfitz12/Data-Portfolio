@@ -8,7 +8,7 @@ Projects I worked on using the analytics skills I learned from the MBA program.
 
 ### Carroll University Physician Assistant Progam
 
-Data analysis of Likert scale evaluation data during the clinical year. This involved loading and cleaning data into Excel and using Tableau for visualizations to be used for analysis.
+Data analysis of Likert scale evaluation data during the clinical year. This involved loading and cleaning data into Excel and using Tableau for visualizations to be used for analysis. This was actually an MBA project but it is using current data of the program.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b4700e6b-bd59-41e5-a49b-f048178822a3"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/3fdf11fa-03b6-438d-8d92-5d8d925648c1">
 
