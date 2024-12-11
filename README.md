@@ -6,6 +6,15 @@ Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University
 ## Business Projects
 Projects I worked on using the analytics skills I learned from the MBA program.
 
+### Carroll University Physician Assistant Progam
+
+Data analysis of Likert scale data during the clinical year. This involved loading and cleaning data into Excel and using Tableau for visualizations to be used for analysis.
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b4700e6b-bd59-41e5-a49b-f048178822a3"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/3fdf11fa-03b6-438d-8d92-5d8d925648c1">
+
+
+
+
 ### Froedtert Workforce Health
 
 Visualization using Tableau of Froedtert Workforce Health Clinics to show its locations and clinic information throughout southeast Wisconsin. Workforce Health is a division of Froedtert Health that contracts with businesses to provide an on-site health clinic for its employees. This involved loading data, cleaning data, and finding and adding geolocation coordinates of addresses before creating the visualization.
