@@ -12,7 +12,7 @@ Data analysis of Likert scale evaluation data during the clinical year. This inv
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b4700e6b-bd59-41e5-a49b-f048178822a3"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/3fdf11fa-03b6-438d-8d92-5d8d925648c1">
 
-   [Fitzgerald - PA Program Data Analysis Video Presentation](https://carrollu-my.sharepoint.com/:v:/g/personal/mfitzger_carrollu_edu/EQUxUk6SEd5AngrymJy3MsYBs3osAw9p61-f_lZZnWFCQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MNUM7n)
+   [Fitzgerald - PA Program Data Analysis Video Presentation](https://drive.google.com/file/d/1ylJ-abdp6f4RLaXz6zGFrszg98WdwUBA/view?usp=share_link)
 
 
 ### Froedtert Workforce Health
