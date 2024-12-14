@@ -51,7 +51,7 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="260" alt="image" src="https://github.com/user-attachments/assets/b5ae6d89-a048-4f2d-8352-24a93e07150d"> <img width="260" alt="image" src="https://github.com/user-attachments/assets/293540f4-cff2-45d2-8efa-131f40e7887b"> 
 
-  [Fitzgerald - Obesity Project](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald_Obesity_Project_Python.ipynb?csf=1&web=1&e=OCxE5A)
+  [Fitzgerald - Obesity Project](https://colab.research.google.com/drive/1nEkGbPG47GA8iX7-iLINiw2Okf0ZrCj-?usp=sharing)
 
 ### Tableau
 
