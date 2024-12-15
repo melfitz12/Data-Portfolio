@@ -32,7 +32,7 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059">
 
-  [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://github.com/melfitz12/MBA-files/blob/main/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf)
+  [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf)
 
 * Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including the use of pivot tables, descriptive statistics, and visualizations.
 
