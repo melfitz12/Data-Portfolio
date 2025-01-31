@@ -75,10 +75,16 @@ Analytics projects I completed for various courses in the MBA program.
   [Data analysis using R](https://colab.research.google.com/drive/1uz5yur-AwSebAO_9AnVKc6xQhmxYuUTF?usp=sharing)
 
 ### SPSS
-* Data analysis and visualizations of select data from the U.S. Census Bureau including exploratory data analysis, correlation analysis, and simple linear regression. This involved importing data from IPUMS into SPSS and coding the missing variables prior to analysis.
+* A written data analysis of select data from the U.S. Census Bureau including exploratory data analysis, correlation analysis, simple linear regression, and visualizations. This involved importing data from IPUMS into SPSS and coding the missing variables prior to analysis.
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/4f642f26-1312-49c5-971a-e07b9f7ddc8f"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/7f11fd3a-c04a-47ce-a000-a97e56118d93"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ac364725-1823-4d8d-a3ea-246a1f1b2cae"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ffdefb9c-2075-4375-bb2f-fe13052ce2dd">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/4f642f26-1312-49c5-971a-e07b9f7ddc8f"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/7f11fd3a-c04a-47ce-a000-a97e56118d93"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ac364725-1823-4d8d-a3ea-246a1f1b2cae"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ffdefb9c-2075-4375-bb2f-fe13052ce2dd">
 
+  [Fitzgerald - Data Analysis on select U.S. Census data for census year 2010](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%201A%20Report.pdf)
 
+* A written report on simple priceforecasting using linear regression of The Beachbody Company, Inc. Data analysis and visualization of historical price data including importing data from Nasdaq, exploratory data analysis, correlation analysis, and linear regression (simple and multilinear).
+
+  <img width="320" alt="image" src="https://github.com/user-attachments/assets/d0ceffd8-83ac-4c18-b579-87c47b7daf39"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/d5a54e52-b3f9-4f6c-b448-ffd6d4b66359"> <img width="280" alt="image" src="https://github.com/user-attachments/assets/be4d99c5-3740-4555-99df-6410ee29ac95"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/c1e6ff84-d171-49bd-a827-14a2f685af55"> <img width="370" alt="image" src="https://github.com/user-attachments/assets/4d1dd8ff-8432-43db-a601-72bcbfe7bc1f">
+
+   [Fitzgerald - BODi: Simple price forecasting using linear regression](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%202%20Report.pdf)
 
   
