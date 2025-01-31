@@ -68,12 +68,16 @@ Analytics projects I completed for various courses in the MBA program.
   [Fitzgerald - EVP Visualizations](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Tableau.twbx?csf=1&web=1&e=M2GFA0)
 
 ### R
-* Data analysis and visualizations of vehicle data including exploratory data analysis, correlation analysis, hypothesis testing, and simple linear regression. This involved the data and creating new dataframes using select data for analyses.
+* Data analysis and visualizations of vehicle data including exploratory data analysis, correlation analysis, hypothesis testing, and simple linear regression. This involved importing the data and creating new dataframes using select data for analyses.
 
   <img width="260" alt="image" src="https://github.com/user-attachments/assets/fc8af014-6e9f-4062-87ed-d229d473a18b"> <img width="270" alt="image" src="https://github.com/user-attachments/assets/2a98dc6b-d737-4ac4-91b7-8d8ce05a3fd6"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/5d2abeba-c7a5-47bd-ab8a-83577ced2fc0">
 
   [Data analysis using R](https://colab.research.google.com/drive/1uz5yur-AwSebAO_9AnVKc6xQhmxYuUTF?usp=sharing)
-  
+
+### SPSS
+* Data analysis and visualizations of select data from the U.S. Census Bureau including exploratory data analysis, correlation analysis, and simple linear regression. This involved importing data from IPUMS into SPSS and coding the missing variables prior to analysis.
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4f642f26-1312-49c5-971a-e07b9f7ddc8f"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/7f11fd3a-c04a-47ce-a000-a97e56118d93"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ac364725-1823-4d8d-a3ea-246a1f1b2cae"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ffdefb9c-2075-4375-bb2f-fe13052ce2dd">
 
 
 
