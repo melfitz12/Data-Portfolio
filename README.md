@@ -81,7 +81,7 @@ Analytics projects I completed for various courses in the MBA program.
 
   [Fitzgerald - Data Analysis on select U.S. Census data for census year 2010](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%201A%20Report.pdf)
 
-* A written report on simple priceforecasting using linear regression of The Beachbody Company, Inc. Data analysis and visualization of historical price data including importing data from Nasdaq, exploratory data analysis, correlation analysis, and linear regression (simple and multilinear).
+* A written report on simple price forecasting using linear regression of historical stock prices of The Beachbody Company, Inc. Data analysis and visualization of historical price data including importing data from Nasdaq, exploratory data analysis, correlation analysis, and linear regression (simple and multilinear).
 
   <img width="320" alt="image" src="https://github.com/user-attachments/assets/d0ceffd8-83ac-4c18-b579-87c47b7daf39"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/d5a54e52-b3f9-4f6c-b448-ffd6d4b66359"> <img width="280" alt="image" src="https://github.com/user-attachments/assets/be4d99c5-3740-4555-99df-6410ee29ac95"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/c1e6ff84-d171-49bd-a827-14a2f685af55"> <img width="370" alt="image" src="https://github.com/user-attachments/assets/4d1dd8ff-8432-43db-a601-72bcbfe7bc1f">
 
