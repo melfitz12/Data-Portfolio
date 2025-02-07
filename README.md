@@ -87,4 +87,4 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="150" alt="image" src="https://github.com/user-attachments/assets/e4bbaa05-e2e8-4ff1-9d60-0662e77c90c9"> <img width="320" alt="image" src="https://github.com/user-attachments/assets/509fc87e-66fe-47e2-b0fe-b092b5f3d126"><img width="400" alt="image" src="https://github.com/user-attachments/assets/18d9ef46-359e-45ca-9c18-f98bbc8a36dd"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/8e7f5782-4583-4682-b45f-4dfdf6aafb08"> <img width="370" alt="image" src="https://github.com/user-attachments/assets/7b9744fe-f66d-4847-8988-4afa761d11e7"><img width="300" alt="image" src="https://github.com/user-attachments/assets/4aea0b0f-0e72-4011-a61c-92689c5c2b98">
 
-   [Fitzgerald - ANOVA: A comparison of Milwaukee MLS data for select years and market segments]()  
+   [Fitzgerald - ANOVA: A comparison of Milwaukee MLS data for select years and market segments](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%203%20Report.pdf)  
