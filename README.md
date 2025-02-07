@@ -34,24 +34,20 @@ Analytics projects I completed for various courses in the MBA program.
 
   [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf)
 
-* Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including the use of pivot tables, descriptive statistics, and visualizations.
-
-  <img width="350" alt="image" src="https://github.com/user-attachments/assets/693314d5-feb7-44b1-8215-853c40adebf2"> <img width="380" alt="image" src="https://github.com/user-attachments/assets/90053618-86df-4538-9cfe-a54548d4aa58">
-
-  [Fitzgerald - EPA Data Analysis](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EPA%20Data%20Analysis.xlsx?d=w17f48560e95c40ee83053ac25081b088&csf=1&web=1&e=r9tCyw)
-
 * Hypothesis testing using electric vehicle population (EVP) data including the use of pivot tables, correlation analysis, linear regression analysis and visualizations.
 
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/5b534e74-d4e1-4722-a42c-490519bc8136"> <img width="360" alt="image" src="https://github.com/user-attachments/assets/56483cb4-b5cc-42d9-ba76-50909c9a32ca"> <img width="210" alt="image" src="https://github.com/user-attachments/assets/6934ccb4-4e7e-4d92-937f-6f214b6abd58">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/6bb453b3-53b8-4215-8437-1a28d4494721"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/d8d63c57-c7a0-4ad9-84f5-884990308edf"><img width="350" alt="image" src="https://github.com/user-attachments/assets/693314d5-feb7-44b1-8215-853c40adebf2"> <img width="380" alt="image" src="https://github.com/user-attachments/assets/90053618-86df-4538-9cfe-a54548d4aa58">
 
-  [Fitzgerald - EVP Hypothesis Testing](https://carrollu-my.sharepoint.com/:x:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Data%20Analysis.xlsx?d=w3071de0f15c2454e9b40d05a2ad9b788&csf=1&web=1&e=wpoC8X)
+* Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including the use of pivot tables, descriptive statistics, and visualizations.
+
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/5b534e74-d4e1-4722-a42c-490519bc8136"> <img width="360" alt="image" src="https://github.com/user-attachments/assets/56483cb4-b5cc-42d9-ba76-50909c9a32ca"> <img width="210" alt="image" src="https://github.com/user-attachments/assets/6934ccb4-4e7e-4d92-937f-6f214b6abd58">
 
 ### Python
 * Data analysis to predict obesity rates using data from the Centers for Disease Control and Prevention. This involved loading the data, cleaning and preprocessing data, performing EDA, correlation analysis, and performing a multilinear regression analysis to create a model for prediction.
 
   <img width="260" alt="image" src="https://github.com/user-attachments/assets/b5ae6d89-a048-4f2d-8352-24a93e07150d"> <img width="260" alt="image" src="https://github.com/user-attachments/assets/293540f4-cff2-45d2-8efa-131f40e7887b"> 
 
-  [Fitzgerald - Obesity Project](https://colab.research.google.com/drive/1nEkGbPG47GA8iX7-iLINiw2Okf0ZrCj-?usp=sharing)
+  [Fitzgerald - Obesity Project Python Code](https://colab.research.google.com/drive/1nEkGbPG47GA8iX7-iLINiw2Okf0ZrCj-?usp=sharing)
 
 ### Tableau
 
