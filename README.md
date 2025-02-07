@@ -30,7 +30,7 @@ Analytics projects I completed for various courses in the MBA program.
 ### Excel
 * A written report to describe vehical data from the U.S. Environmental Protection Agency. Used descriptive statistics to summarize vehical data. Conducted both a linear regession analysis and multilinear regression anaylsis to create models to predict vehicle fuel consumption. Evaluated the validity of the linear analysis to determine if it was the appropriate analysis for this data.
 
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059"><img width="480" alt="image" src="https://github.com/user-attachments/assets/029e84de-f50c-42ac-9569-8dcc3153a6d2">
 
   [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf)
 
