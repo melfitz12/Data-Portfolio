@@ -30,13 +30,13 @@ Analytics projects I completed for various courses in the MBA program.
 ### Excel
 * A written report to describe vehical data from the U.S. Environmental Protection Agency. Used descriptive statistics to summarize vehical data. Conducted both a linear regession analysis and multilinear regression anaylsis to create models to predict vehicle fuel consumption. Evaluated the validity of the linear analysis to determine if it was the appropriate analysis for this data.
 
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059"><img width="480" alt="image" src="https://github.com/user-attachments/assets/029e84de-f50c-42ac-9569-8dcc3153a6d2">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059"><img width="430" alt="image" src="https://github.com/user-attachments/assets/029e84de-f50c-42ac-9569-8dcc3153a6d2">
 
   [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf)
 
 * Hypothesis testing using electric vehicle population (EVP) data including the use of pivot tables, correlation analysis, linear regression analysis and visualizations.
 
-  <img width="540" alt="image" src="https://github.com/user-attachments/assets/6bb453b3-53b8-4215-8437-1a28d4494721"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/d8d63c57-c7a0-4ad9-84f5-884990308edf"><img width="350" alt="image" src="https://github.com/user-attachments/assets/693314d5-feb7-44b1-8215-853c40adebf2"> <img width="380" alt="image" src="https://github.com/user-attachments/assets/90053618-86df-4538-9cfe-a54548d4aa58">
+  <img width="440" alt="image" src="https://github.com/user-attachments/assets/6bb453b3-53b8-4215-8437-1a28d4494721"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/d8d63c57-c7a0-4ad9-84f5-884990308edf"><img width="350" alt="image" src="https://github.com/user-attachments/assets/693314d5-feb7-44b1-8215-853c40adebf2"> <img width="380" alt="image" src="https://github.com/user-attachments/assets/90053618-86df-4538-9cfe-a54548d4aa58">
 
 * Exploratory Data Analysis (EDA) of vehicle data from the U.S. Environmental Protection Agency including the use of pivot tables, descriptive statistics, and visualizations.
 
