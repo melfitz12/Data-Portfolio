@@ -12,7 +12,7 @@ Data analysis of Likert scale evaluation data during the clinical year. This inv
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b4700e6b-bd59-41e5-a49b-f048178822a3"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/3fdf11fa-03b6-438d-8d92-5d8d925648c1">
 
-   [Fitzgerald - PA Program Data Analysis Video Presentation](https://drive.google.com/file/d/1ylJ-abdp6f4RLaXz6zGFrszg98WdwUBA/view?usp=share_link)
+   [PA Program Data Analysis Video Presentation](https://drive.google.com/file/d/1ylJ-abdp6f4RLaXz6zGFrszg98WdwUBA/view?usp=share_link)
 
 
 ### Froedtert Workforce Health
@@ -21,7 +21,7 @@ Visualization using Tableau of Froedtert Workforce Health Clinics to show its lo
 
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/8efb26d6-3399-4c6e-bf54-9997029ed2be">
 
-   [Fitzgerald - Froedtert Workforce Health - Tableau](https://public.tableau.com/shared/GH4PWN5Z3?:display_count=n&:origin=viz_share_link)
+   [Froedtert Workforce Health - Tableau](https://public.tableau.com/shared/GH4PWN5Z3?:display_count=n&:origin=viz_share_link)
 
 ## MBA Projects
 
@@ -32,7 +32,7 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/7347f229-730b-4d77-af84-3e55f879b059"><img width="400" alt="image" src="https://github.com/user-attachments/assets/029e84de-f50c-42ac-9569-8dcc3153a6d2">
 
-  [Fitzgerald - Managerial Report on Vehicle Fuel Consumption](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf)
+  [Managerial Report on Vehicle Fuel Consumption](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Managerial%20Report%20on%20Vehicle%20Fuel%20Consumption.pdf)
 
 * Hypothesis testing using electric vehicle population (EVP) data including the use of pivot tables, correlation analysis, linear regression analysis and visualizations.
 
@@ -47,19 +47,19 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="260" alt="image" src="https://github.com/user-attachments/assets/b5ae6d89-a048-4f2d-8352-24a93e07150d"> <img width="260" alt="image" src="https://github.com/user-attachments/assets/293540f4-cff2-45d2-8efa-131f40e7887b"> 
 
-  [Fitzgerald - Obesity Project using Python](https://colab.research.google.com/drive/1nEkGbPG47GA8iX7-iLINiw2Okf0ZrCj-?usp=sharing)
+  [Obesity Project using Python](https://colab.research.google.com/drive/1nEkGbPG47GA8iX7-iLINiw2Okf0ZrCj-?usp=sharing)
 
 ### Tableau
 
 * EDA visualizations of fuel consumption vehicle data from the U.S. Environmental Protection Agency.
 
-  <img width="350" alt="image" src="https://github.com/user-attachments/assets/3ad61417-a768-4537-a5bf-384cc11f8b6f">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/3ad61417-a768-4537-a5bf-384cc11f8b6f">
 
   [Fitzgerald - EPA Visualizations](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EDA%20with%20Tableau.twbx?csf=1&web=1&e=zLEuRw)
 
 * Visualizations of EVP data including correlation analysis.
 
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/f884b239-1687-4cca-9125-cefe6f6087d7">  <img width="350" alt="image" src="https://github.com/user-attachments/assets/606d8639-2aa3-44ad-af15-cd70307d3587">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/f884b239-1687-4cca-9125-cefe6f6087d7">  <img width="450" alt="image" src="https://github.com/user-attachments/assets/606d8639-2aa3-44ad-af15-cd70307d3587">
 
   [Fitzgerald - EVP Visualizations](https://carrollu-my.sharepoint.com/:u:/r/personal/mfitzger_carrollu_edu/Documents/mfitzger/MBA/BUS670/PORTFOLIO/Fitzgerald%20-%20EVP%20Tableau.twbx?csf=1&web=1&e=M2GFA0)
 
@@ -75,16 +75,16 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/4f642f26-1312-49c5-971a-e07b9f7ddc8f"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/7f11fd3a-c04a-47ce-a000-a97e56118d93"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ac364725-1823-4d8d-a3ea-246a1f1b2cae"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ffdefb9c-2075-4375-bb2f-fe13052ce2dd">
 
-  [Fitzgerald - Data Analysis on select U.S. Census data for census year 2010](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%201A%20Report.pdf)
+  [Data Analysis on select U.S. Census data for census year 2010](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%201A%20Report.pdf)
 
 * A written report on simple price forecasting using linear regression of historical stock prices of The Beachbody Company, Inc. Data analysis and visualization of historical price data including importing data from Nasdaq, exploratory data analysis, correlation analysis, and linear regression (simple and multilinear).
 
   <img width="320" alt="image" src="https://github.com/user-attachments/assets/d0ceffd8-83ac-4c18-b579-87c47b7daf39"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/d5a54e52-b3f9-4f6c-b448-ffd6d4b66359"> <img width="280" alt="image" src="https://github.com/user-attachments/assets/be4d99c5-3740-4555-99df-6410ee29ac95"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/c1e6ff84-d171-49bd-a827-14a2f685af55"> <img width="370" alt="image" src="https://github.com/user-attachments/assets/4d1dd8ff-8432-43db-a601-72bcbfe7bc1f">
 
-   [Fitzgerald - BODi: Simple price forecasting using linear regression](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%202%20Report.pdf)
+   [BODi: Simple price forecasting using linear regression](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%202%20Report.pdf)
 
 * A written report to compare Milwaukee MLS data for select yearas and market segments using single-factor and two-factor ANOVA. The dataset was extracted for years 2019-2022 and ESRI tapestry segments City Strivers, Family Foundations, and Fresh Ambitions. The comparison to test if bedroom size and market segment hav an effect on home selling price.
 
   <img width="150" alt="image" src="https://github.com/user-attachments/assets/e4bbaa05-e2e8-4ff1-9d60-0662e77c90c9"> <img width="320" alt="image" src="https://github.com/user-attachments/assets/509fc87e-66fe-47e2-b0fe-b092b5f3d126"><img width="400" alt="image" src="https://github.com/user-attachments/assets/18d9ef46-359e-45ca-9c18-f98bbc8a36dd"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/8e7f5782-4583-4682-b45f-4dfdf6aafb08"> <img width="370" alt="image" src="https://github.com/user-attachments/assets/7b9744fe-f66d-4847-8988-4afa761d11e7"><img width="300" alt="image" src="https://github.com/user-attachments/assets/4aea0b0f-0e72-4011-a61c-92689c5c2b98">
 
-   [Fitzgerald - ANOVA: A comparison of Milwaukee MLS data for select years and market segments](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%203%20Report.pdf)  
+   [ANOVA: A comparison of Milwaukee MLS data for select years and market segments](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%203%20Report.pdf)  
