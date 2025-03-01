@@ -6,7 +6,7 @@ Hi! My name is Melanie Fitzgerald. I am a graduate student at Carroll University
 ## Business Projects
 Projects I worked on using the analytics skills I learned from the MBA program.
 
-### Carroll University Master of Science in Physician Assistant Studies (MSPAS) Progam
+### Carroll University Master of Science in Physician Assistant Studies (MSPAS)
 
 Chi-square analyses of application demographic trends in the PA Program. The data was obtained from the Graduate Admissions office from the national PA application database CASPA. The demographic data used for this project is state (where the applicant is from), age, and gender for the five most recent completed admissions cycles. The datatsets were cleaned in Excel and edited to only include the relevant demographic data. Analysis was done in SPSS which involved setting up the crosstables for each hypothesis statement. Comparisons of the relevant demographics include across admissions cycles, pre and post Covid pandemic changes in geographic diversity, and the demographics of matriculateed students compared to the total application pool.
 
