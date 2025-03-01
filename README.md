@@ -13,7 +13,7 @@ Chi-square analyses of application demographic trends in the PA Program. The dat
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/c921bde7-3037-47a8-b0e7-c714a853a498"><img width="250" alt="image" src="https://github.com/user-attachments/assets/518c7aae-2aa7-4d09-8985-5411c65de275">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/de4b896e-1c6d-4424-8181-307c6309072d"><img width="400" alt="image" src="https://github.com/user-attachments/assets/114e68a2-11b7-4d36-ad83-f3521641be45">
 
-   [CU MSPAS Application Trends - Tableau Data Story](https://public.tableau.com/views/CUMSPASapplicationtrends/PAADMISSIONS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   [CU MSPAS Application Trends - Tableau Data Story](https://public.tableau.com/views/CUMSPASapplicationtrends/PAADMISSIONS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - *Please view in full screen mode.*
 
 Data analysis of Likert scale evaluation data during the clinical year. This involved loading and cleaning data into Excel and using Tableau for visualizations to be used for analysis. This was actually an MBA project but it uses current data of the program.
 
