@@ -90,8 +90,16 @@ Analytics projects I completed for various courses in the MBA program.
 
    [BODi: Simple price forecasting using linear regression](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%202%20Report.pdf)
 
-* A written report on real estate trend across market segments and bedroom sizes using Milwaukee MLS data for select years 2019-2022 and ESRI market segments City Strivers, Family Foundations, and Fresh Ambitions.  Descriptive statistics and ANOVA (single and two-factor) was performed using SPSS to examine if bedroom size and market segments have an effect on home selling price.
+* A written report on real estate trend across market segments and bedroom sizes using the Milwaukee MLS real estate dataset for select years 2019-2022 and ESRI market segments City Strivers, Family Foundations, and Fresh Ambitions.  Descriptive statistics and ANOVA (single and two-factor) was performed using SPSS to examine if bedroom size and market segments have an effect on home selling price. ANOVA was a new statistical method for me and an opportunity to advance my skills in SPSS.
 
   <img width="150" alt="image" src="https://github.com/user-attachments/assets/e4bbaa05-e2e8-4ff1-9d60-0662e77c90c9"> <img width="320" alt="image" src="https://github.com/user-attachments/assets/509fc87e-66fe-47e2-b0fe-b092b5f3d126"><img width="400" alt="image" src="https://github.com/user-attachments/assets/18d9ef46-359e-45ca-9c18-f98bbc8a36dd"> <img width="300" alt="image" src="https://github.com/user-attachments/assets/8e7f5782-4583-4682-b45f-4dfdf6aafb08"> <img width="370" alt="image" src="https://github.com/user-attachments/assets/7b9744fe-f66d-4847-8988-4afa761d11e7"><img width="300" alt="image" src="https://github.com/user-attachments/assets/4aea0b0f-0e72-4011-a61c-92689c5c2b98">
 
    [ANOVA: A comparison of Milwaukee MLS data for select years and market segments](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%203%20Report.pdf)  
+
+* A written report using the Milwaukee MLS real estate dataset as the previous lab but for different variables. The statistical test of ANOVA and using SPSS for analysis was again used in this report. While I used the same methods as the previous project, this was an opportunity for me to develop a research question on my own using the statistical tools from SPSS I recently learned.
+
+  <img width="230" alt="image" src="https://github.com/user-attachments/assets/d3a3aa45-fd0a-45de-9be5-9108ac1af124"><img width="430" alt="image" src="https://github.com/user-attachments/assets/ca2810dd-bba2-4995-81e5-2c69fd97161d"><img width="200" alt="image" src="https://github.com/user-attachments/assets/a12f187b-94a0-4ecd-8962-1316eb61c527"><img width="350" alt="image" src="https://github.com/user-attachments/assets/f7fde671-4d1c-40f1-8051-28bc856c9f96"><img width="225" alt="image" src="https://github.com/user-attachments/assets/578d15f9-1970-42c0-bc3a-4363c8e33f4d"><img width="350" alt="image" src="https://github.com/user-attachments/assets/754c5841-5fe3-4bf7-80e7-31abd28a0e20">
+
+
+
+
