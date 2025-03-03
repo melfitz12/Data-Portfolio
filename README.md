@@ -105,7 +105,7 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="228" alt="image" src="https://github.com/user-attachments/assets/9a3a1f9a-baa4-4bb7-ab60-9d479d48779c"><img width="228" alt="image" src="https://github.com/user-attachments/assets/d291f714-86bb-488b-ae8e-a8db4ae4b0fb"><img width="228" alt="image" src="https://github.com/user-attachments/assets/c18c62c1-2f0a-492a-a822-49e645441d27"><img width="209" alt="image" src="https://github.com/user-attachments/assets/b416943a-b826-4194-925b-87b6eb0d998a">
 
-    [A Chi-square analysis of select questions from the Wave 14 Survey on social media use and politics](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20Lab%204%20Report.pdf)
+    [A Chi-square analysis of select questions from the Wave 14 Survey on social media use and politics](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20%20-%20Lab%205%20report.pdf)
 
 
 
