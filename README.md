@@ -99,5 +99,16 @@ Analytics projects I completed for various courses in the MBA program.
 
   <img width="230" alt="image" src="https://github.com/user-attachments/assets/d3a3aa45-fd0a-45de-9be5-9108ac1af124"><img width="430" alt="image" src="https://github.com/user-attachments/assets/ca2810dd-bba2-4995-81e5-2c69fd97161d"><img width="200" alt="image" src="https://github.com/user-attachments/assets/a12f187b-94a0-4ecd-8962-1316eb61c527"><img width="350" alt="image" src="https://github.com/user-attachments/assets/f7fde671-4d1c-40f1-8051-28bc856c9f96"><img width="225" alt="image" src="https://github.com/user-attachments/assets/578d15f9-1970-42c0-bc3a-4363c8e33f4d"><img width="350" alt="image" src="https://github.com/user-attachments/assets/754c5841-5fe3-4bf7-80e7-31abd28a0e20">
 
-  [ANOVA: A comparison of 2022 Wisconsin home sales using select data - Lake Country, Waukesha County](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20Lab%204%20Report.pdf) 
+  [ANOVA: A comparison of 2022 Wisconsin home sales using select data - Lake Country, Waukesha County](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20Lab%204%20Report.pdf)
+
+* A written report using data from Wave 14 of the 2016 Pew Research Center’s American Trends Panel focusing on social media use and politics. This was a partnered project to analyze 12 questions from the survey. The link below is from my contribution to the report. This is a chi-square analysis of 6 questions from the survey using SPSS which involved setting up the crosstabs and applying the chi-square analysis for each quesiton. The crosstabs were initially created in Excel and copied into SPSS. It took several iterations of setting up the crosstabs to finally get it correct.
+
+  <img width="228" alt="image" src="https://github.com/user-attachments/assets/9a3a1f9a-baa4-4bb7-ab60-9d479d48779c"><img width="228" alt="image" src="https://github.com/user-attachments/assets/d291f714-86bb-488b-ae8e-a8db4ae4b0fb"><img width="228" alt="image" src="https://github.com/user-attachments/assets/c18c62c1-2f0a-492a-a822-49e645441d27"><img width="209" alt="image" src="https://github.com/user-attachments/assets/b416943a-b826-4194-925b-87b6eb0d998a">
+
+    [A Chi-square analysis of select questions from the Wave 14 Survey on social media use and politics](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20Lab%204%20Report.pdf)
+
+
+
+
+
 
