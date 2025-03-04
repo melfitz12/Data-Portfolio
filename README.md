@@ -95,7 +95,7 @@ Analytics projects I completed for various courses in the MBA program.
 
    [ANOVA: A comparison of Milwaukee MLS data for select years and market segments](https://github.com/melfitz12/Data-Portfolio/blob/main/Fitzgerald%20-%20Lab%203%20Report.pdf)  
 
-* A written report using the Milwaukee MLS real estate dataset as the previous lab but for different variables. The statistical test of ANOVA and using SPSS for analysis was again used in this report. While I used the same methods as the previous project, this was an opportunity for me to develop a research question on my own using the statistical tools from SPSS I recently learned.
+* A written report using the Milwaukee MLS real estate dataset as the previous lab but for different variables. The statistical test of ANOVA and using SPSS for analysis was used in this report. While I used the same methods as the previous project, this was an opportunity for me to develop a research question on my own using the statistical tools from SPSS I recently learned.
 
   <img width="230" alt="image" src="https://github.com/user-attachments/assets/d3a3aa45-fd0a-45de-9be5-9108ac1af124"><img width="430" alt="image" src="https://github.com/user-attachments/assets/ca2810dd-bba2-4995-81e5-2c69fd97161d"><img width="200" alt="image" src="https://github.com/user-attachments/assets/a12f187b-94a0-4ecd-8962-1316eb61c527"><img width="350" alt="image" src="https://github.com/user-attachments/assets/f7fde671-4d1c-40f1-8051-28bc856c9f96"><img width="225" alt="image" src="https://github.com/user-attachments/assets/578d15f9-1970-42c0-bc3a-4363c8e33f4d"><img width="350" alt="image" src="https://github.com/user-attachments/assets/754c5841-5fe3-4bf7-80e7-31abd28a0e20">
 
