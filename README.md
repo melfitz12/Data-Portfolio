@@ -27,7 +27,7 @@ Visualization using Tableau of Froedtert Workforce Health Clinics to show its lo
 
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/8efb26d6-3399-4c6e-bf54-9997029ed2be">
 
-   [Froedtert Workforce Health - Tableau](https://public.tableau.com/shared/GH4PWN5Z3?:display_count=n&:origin=viz_share_link)
+   [Froedtert Workforce Health - Tableau Public](https://public.tableau.com/shared/GH4PWN5Z3?:display_count=n&:origin=viz_share_link)
 
 ## MBA Projects
 
