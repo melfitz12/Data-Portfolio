@@ -1,7 +1,7 @@
 # Data Portfolio
 
 ## About Me
-Hi! My name is Melanie Fitzgerald. I currently work as an administrative assistant for a physician assistant program. In addition to typical administrative duties, I also do the data analytics for the program. I have a MS in Mathematics and an MBA in Business Analytics.
+Hi! My name is Melanie Fitzgerald. I currently work as the administrative assistant for a physician assistant program. In addition to typical administrative duties, I also do the data analytics for the program. I have a MS in Mathematics and an MBA in Business Analytics.
 
 ## Business Projects
 Projects I worked on using the analytics skills I learned from the MBA program.
